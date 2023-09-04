@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 TO DO:
 -eat
 -drink
 -be merry
 -sleep
 -happy
+=======
+>>>>>>> parent of fd23a32 (added todos)
